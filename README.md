@@ -113,6 +113,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [RetroShare](http://retroshare.sourceforge.net/) is an open source, decentralised communication platform. It lets you chat and share with friends and family, with a web-of-trust to authenticate peers.
 
+### Raspberry Pi
+
+[Raspberry Pi](http://www.raspberrypi.org/about) is a $25 linux server that uses very little power that an be used as a server for many things.
+
 ### Serval Project
 
 [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
